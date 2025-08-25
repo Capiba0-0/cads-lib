@@ -1,5 +1,4 @@
 #include <gtest/gtest.h>
-
 #include "cads/stack.h"
 
 TEST(StackTest, LIFO_Behaviour)
